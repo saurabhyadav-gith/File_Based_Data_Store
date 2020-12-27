@@ -9,3 +9,7 @@ This is a file based data store which stores key-value pair as data value. Data 
 * To use the read function, use command: variable_name.read(key).
 * To use the delete function, use command: variable_name.delete(key).
 * Refer example.pdf.
+
+#Technologies
+*NodeJS
+*JavaScript
