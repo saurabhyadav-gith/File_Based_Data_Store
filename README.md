@@ -11,5 +11,5 @@ This is a file based data store which stores key-value pair as data value. Data 
 * Refer example.pdf.
 
 # Technologies
-* Node js
+* NodeJS
 * JavaScript
