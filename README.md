@@ -10,6 +10,6 @@ This is a file based data store which stores key-value pair as data value. Data 
 * To use the delete function, use command: variable_name.delete(key).
 * Refer example.pdf.
 
-#Technologies
-*NodeJS
-*JavaScript
+# Technologies
+* NodeJS
+* JavaScript
